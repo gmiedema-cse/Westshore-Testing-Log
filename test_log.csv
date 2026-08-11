@@ -27,3 +27,4 @@ Time,Board Name,Result,Reason,Battery V,Panel Tested,Panel V,Pressure Sensor V,P
 2026-08-11T12:24:04.494Z,CSE_Marine_4A96,PASS,,3.46,Y,2.06,0.21,0.04,1,3.2,3.2,26188,26188
 2026-08-11T12:24:29.722Z,CSE_Marine_875A,PASS,,3.46,Y,0.66,0.19,0.00,1,3.2,3.2,26188,26188
 2026-08-11T12:25:23.418Z,CSE_Marine_2C69,FAIL,"panel voltage -0.06V (must be >= 0.50V), pressure sensor raw 0 (must be 4-28), no firmware version reply (v)",3.46,Y,-0.06,0.00,-0.45,,,3.2,,26188
+2026-08-11T12:25:42.347Z,CSE_Marine_2C69,FAIL,"pressure sensor raw 0 (must be 4-28), no firmware version reply (v)",3.46,Y,0.86,0.00,-0.45,,,3.2,,26188
