@@ -944,3 +944,4 @@ Time,Board Name,Result,Reason,Battery V,Panel Tested,Panel V,Pressure Sensor V,P
 2026-08-28T18:15:05.975Z,CSE_Marine_DA4A,FAIL,pressure sensor raw 0 (must be 4-28),3.90,Y,1.14,0.00,-0.45,1,3.2,3.2,26188,26188
 2026-08-28T18:15:06.965Z,CSE_Marine_DA4A,FAIL,pressure sensor raw 0 (must be 4-28),3.94,Y,1.14,0.00,-0.45,1,3.2,3.2,26188,26188
 2026-08-28T18:20:04.091Z,CSE_Marine_8583,FAIL,pressure sensor raw 0 (must be 4-28),3.90,Y,1.10,0.00,-0.45,1,3.2,3.2,26188,26188
+2026-08-28T18:20:07.539Z,CSE_Marine_8583,FAIL,pressure sensor raw 0 (must be 4-28),3.90,Y,1.18,0.00,-0.45,1,3.2,3.2,26188,26188
